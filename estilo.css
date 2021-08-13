@@ -1,0 +1,36 @@
+
+
+body {
+	background-image: url(Imagenes/fondo.png);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h5 {
+	margin: 0;
+	text-align: center;
+	height: 40px;
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+}
+
+table {
+   border-collapse: separate;
+   background: #4e4d4d;
+   color: #fff;
+}
+td, th {
+   background: #6495ED;
+   color: #ffffff;
+   font-weight: bold;
+   text-align: center;
+}
+
+
+
+
+
+
+
